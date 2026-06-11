@@ -1,4 +1,4 @@
-# TAIEX Quant Project
+# Cross market tick data time alignment automation
 
 This project provides a simple Python workflow for aligning TAIEX and SPY tick data by timestamp.
 
