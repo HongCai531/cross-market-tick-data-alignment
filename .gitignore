@@ -1,0 +1,26 @@
+# macOS system files
+.DS_Store
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.env
+UCL_Trading_Economics/
+UCL_Trading_Economics/venv/
+
+# Editor settings
+.vscode/
+
+# Large or generated data
+data/*.csv
+!data/test_TAIEX_sample.csv
+!data/test_SPY_sample.csv
+!data/test_aligned_sample.csv
+data_2020/
+data_2024/
+
+# Unrelated local folders
+dafffd/

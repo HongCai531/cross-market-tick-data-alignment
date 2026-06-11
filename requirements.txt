@@ -1,0 +1,4 @@
+refinitiv-data
+pandas
+numpy
+scipy
